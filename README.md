@@ -193,21 +193,21 @@ MPAndroidChart is used to generate line charts for milk yield analysis. Farmers 
 ---
 # 📷 Screenshots
 
-| Splash Screen | Cattle Profile |
-|---|---|
-| ![](screenshots/Splash.png) | ![](screenshots/CattleProfile.png) |
+<p align="center">
+  <img src="screenshots/Splash.png" width="220"/>
+  <img src="screenshots/CattleProfile.png" width="220"/>
+  <img src="screenshots/AddCow.png" width="220"/>
+</p>
 
-| Add Cow | Milk Diary |
-|---|---|
-| ![](screenshots/AddCow.png) | ![](screenshots/Milk.png) |
+<p align="center">
+  <img src="screenshots/Milk.png" width="220"/>
+  <img src="screenshots/Vaccination.png" width="220"/>
+  <img src="screenshots/Heat.png" width="220"/>
+</p>
 
-| Vaccination Module | Heat Cycle Module |
-|---|---|
-| ![](screenshots/Vaccination.png) | ![](screenshots/Heat.png) |
-
-| Yield Analysis |  |
-|---|---|
-| ![](screenshots/Graph.png) |
+<p align="center">
+  <img src="screenshots/Graph.png" width="220"/>
+</p>
 
 #  How to Run the Gokula-Health Project
 
