@@ -4,7 +4,9 @@
 Gokula-Health is an offline Android application designed to help dairy farmers manage cattle health, milk production, vaccination schedules, and heat cycle tracking efficiently. The application acts as a digital health card for cattle and supports better livestock management through data-driven monitoring.
 
 ---
+# 📥 Download APK
 
+[Download APK](apk/app-debug.apk)
 # Features
 
 * Register and manage cattle profiles
